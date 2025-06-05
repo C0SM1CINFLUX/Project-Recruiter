@@ -1,6 +1,6 @@
 # Project-Recruiter
 
-Hello everyone! I am based in London and I love taking photography and open source projects.
+Hello everyone! I am based in London and I love photography and open source projects.
 
 Follow me on twitter: <INSERT TWITTER>
 
