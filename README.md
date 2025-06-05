@@ -2,7 +2,7 @@
 
 Hello everyone! I am based in London and I love photography and open source projects.
 
-Follow me on twitter: <INSERT TWITTER>
+Follow me on twitter: @C0SM1CINFLUX
 
 This project is a new social network for home town photography. Together we can change the way we see the world!
 
