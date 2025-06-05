@@ -8,4 +8,4 @@ This project is a new social network for home town photography. Together we can 
 
 Project starting soon! Email me if you want to help out: C0SM1CINFLUX@gmail.com
 
-My personal blog! --> https://cosmic.pro
+My personal blog! --> https://comets.pro
